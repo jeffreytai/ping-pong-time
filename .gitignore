@@ -1,0 +1,13 @@
+# IntelliJ files
+.idea/
+
+# Build files
+target/
+
+# Java class files
+*.class
+
+*.iml
+
+**/resources/*.properties
+
